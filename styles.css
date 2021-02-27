@@ -39,7 +39,7 @@ hr {
     width: 10%;
   }
 }
-@media (max-width:642px) {
+@media (max-width:742px) {
   .nav-link{
     font-size: 2rem;
 }
@@ -79,6 +79,9 @@ hr {
   text-align: center;
 }
 
+#products h2{
+  font-size:500%;
+}
 .meat-pic {
   border-radius: 8%;
   width: 30%;
