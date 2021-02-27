@@ -11,6 +11,7 @@ h2 {
 h3 {
   font-family: 'Source Serif Pro', serif;
 }
+p{font-size: 2rem;}
 
 hr {
   border-width: 3px;
@@ -38,7 +39,12 @@ hr {
     width: 10%;
   }
 }
+@media (max-width:642px) {
+  .nav-link{
+    font-size: 2rem;
+}
 
+}
 .navbar {
   padding-top: 1px;
   padding-bottom: 1px;
