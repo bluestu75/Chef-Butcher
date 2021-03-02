@@ -30,7 +30,7 @@ hr {
 
 @media (max-width:940px) {
   #title h1 {
-    font-size: 200%;
+    font-size: 250%;
   }
 }
 
@@ -76,7 +76,7 @@ hr {
 }
 
 .testimonial {
-  text-align: center;
+  text-align: left;
 }
 
 /* products */
